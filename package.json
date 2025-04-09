@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kngako/kgothatsoisthebest/issues"
   },
-  "homepage": "https://github.com/kngako/kgothatsoisthebest#readme"
+  "homepage": "https://github.com/kngako/kgothatsoisthebest#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
 }
