@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Kgothatso is the best."
+  name: "i am the best."
   text: "I need to be descriptive."
   tagline: My greater project tagline.
   actions:
