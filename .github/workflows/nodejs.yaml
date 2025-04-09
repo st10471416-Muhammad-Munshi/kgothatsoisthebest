@@ -30,6 +30,6 @@ jobs:
       with:
         target_branch: main
         build_dir: .vitepress/dist
-        repo: kngako/kngako.github.io
+        repo: st10471416-Muhammad-Munshi/st10471416-Muhammad-Munshi.github.io
       env:
         GITHUB_PAT: ${{ secrets.DEPLOYMENT_TOKEN }}
