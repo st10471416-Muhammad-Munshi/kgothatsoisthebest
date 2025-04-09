@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Kgothatso is the best."
   text: "I need to be descriptive."
-  tagline: My great project tagline
+  tagline: My greater project tagline.
   actions:
     - theme: brand
       text: Markdown Examples
